@@ -15,6 +15,7 @@
 ## 掘金文章
 
 - [【初级】个人分享Vue前端开发教程笔记]()
+- [localStorage和sessionStorage本地存储](https://juejin.cn/post/6923331849708109838#heading-20)
 - [HTML5中的拖放功能](https://juejin.cn/post/6922602775947771911)
 - [挑战前端知识点HTTP/ECMAScript](https://juejin.cn/post/6918735942710722574)
 - [前端170面试题+答案学习整理（良心制作）](https://juejin.cn/post/6917635279423537165)
