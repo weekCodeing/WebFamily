@@ -14,6 +14,7 @@
 
 ## 掘金文章
 
+- [哈哈哈，这是我的第一次JavaScript技巧]()
 - [一个合格的初级前端工程师需要掌握的模块笔记](https://juejin.cn/post/6925197705832562696/)
 - [【初级】个人分享Vue前端开发教程笔记](https://juejin.cn/post/6923946134025191432)
 - [localStorage和sessionStorage本地存储](https://juejin.cn/post/6923331849708109838#heading-20)
