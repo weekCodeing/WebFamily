@@ -14,14 +14,14 @@
 
 ## 掘金文章
 
-- [这是我的第一次JavaScript初级技巧]()
+- [这是我的第一次JavaScript初级技巧](https://juejin.cn/post/6929701436276097032)
 - [一个合格的初级前端工程师需要掌握的模块笔记](https://juejin.cn/post/6925197705832562696/)
 - [【初级】个人分享Vue前端开发教程笔记](https://juejin.cn/post/6923946134025191432)
 - [localStorage和sessionStorage本地存储](https://juejin.cn/post/6923331849708109838#heading-20)
 - [HTML5中的拖放功能](https://juejin.cn/post/6922602775947771911)
 - [挑战前端知识点HTTP/ECMAScript](https://juejin.cn/post/6918735942710722574)
 - [前端170面试题+答案学习整理（良心制作）](https://juejin.cn/post/6917635279423537165)
-- [必学必会-音频和视频](https://juejin.cn/post/6918011549231775751)
+- [必学必会-音频和视频](https://juejin.cn/post/6918011549231775751)  b
 - [前端HTML5面试官和应试者一问一答](https://juejin.cn/post/6917044041863397383)
 - [Vue.js笔试题解决业务中常见问题](https://juejin.cn/post/6916664414422695949)
 - [前端面试必备ES6全方位总结](https://juejin.cn/post/6844904067764846600)
