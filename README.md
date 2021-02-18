@@ -21,7 +21,7 @@
 - [HTML5中的拖放功能](https://juejin.cn/post/6922602775947771911)
 - [挑战前端知识点HTTP/ECMAScript](https://juejin.cn/post/6918735942710722574)
 - [前端170面试题+答案学习整理（良心制作）](https://juejin.cn/post/6917635279423537165)
-- [必学必会-音频和视频](https://juejin.cn/post/6918011549231775751)  b
+- [必学必会-音频和视频](https://juejin.cn/post/6918011549231775751)
 - [前端HTML5面试官和应试者一问一答](https://juejin.cn/post/6917044041863397383)
 - [Vue.js笔试题解决业务中常见问题](https://juejin.cn/post/6916664414422695949)
 - [前端面试必备ES6全方位总结](https://juejin.cn/post/6844904067764846600)
