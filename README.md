@@ -14,7 +14,7 @@
 
 ## 力扣 (LeetCode)
 
-- [力扣 (LeetCode)-两数之和,有效的括号,两数相加](https://juejin.cn/post/6934840493352157197)
+- [两数之和,有效的括号,两数相加](https://juejin.cn/post/6934840493352157197)
 
 ## 面试前反复掌握的JavaScript指南（100）篇
 
