@@ -12,16 +12,17 @@
 
 技术交流群：添加我微信  xiaoda0423  备注【姓名-工作年限/学校】即可
 
-## 力扣 (LeetCode)
+## 📚力扣 (LeetCode)
 
 - [两数之和,有效的括号,两数相加](https://juejin.cn/post/6934840493352157197)
 - [合并两个有序链表,删除排序数组中的重复项,JavaScript笔记](https://juejin.cn/post/6935212632173445151)
+- [力扣 (LeetCode)-最大子序和,JavaScript数据结构与算法（数组）](https://juejin.cn/post/6935568341322956830)
 
-## 面试前反复掌握的JavaScript指南（100）篇
+## 📚面试前反复掌握的JavaScript指南（100）篇
 
 - [面试前反复掌握的JavaScript指南第一篇]()
 
-## 掘金文章
+## 📚掘金文章
 
 - [这是我的第一次JavaScript初级技巧](https://juejin.cn/post/6929701436276097032)
 - [一个合格的初级前端工程师需要掌握的模块笔记](https://juejin.cn/post/6925197705832562696/)
