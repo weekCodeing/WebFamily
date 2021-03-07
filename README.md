@@ -74,6 +74,62 @@
 ## Java文章
 - [【2021年】小哪吒入门学习Java的第一天打卡](https://juejin.cn/post/6918306087795949582)
 
+## 技术论坛
+
+- [思否，原创作者多，问答机制强](https://segmentfault.com/)
+- [掘金，创作者，读者数量多，文章质量高](https://juejin.cn/)
+- [Stackoverflow，技术提问好去处,锻炼英语的好机会](https://stackoverflow.com/)
+- [遇到技术问题,最应该先去这里](https://github.com/)
+
+## 基础框架
+
+- [用于构建用户界面的 JavaScript 库-React.js](https://react.docschina.org/)
+- [渐进式JavaScript 框架-Vue.js](https://cn.vuejs.org/)
+- [一套框架,多种平台移动端&桌面端-Angular.js](https://angular.cn/)
+
+## 跨平台技术
+
+- [使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序-Electron](https://angular.cn/)
+- [使用 React 来创建 Android 和 iOS 的原生应用-React-Native](https://www.react-native.cn/)
+- [可以快速在iOS和Android上构建高质量的原生用户界面-Flutter](https://flutterchina.club/)
+- [uni-app 是一个使用 Vue.js 开发所有前端应用的框架-UniApp](https://uniapp.dcloud.io/)
+
+## 基础组件库
+
+- [企业级产品设计体系，创造高效愉悦的工作体验-Ant-Design](https://ant.design/docs/react/getting-started-cn)
+- [为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库-Element-UI](https://element.eleme.cn/#/zh-CN)
+- [源自谷歌,Build beautiful products, faster-Material Design](https://material-io.cn/)
+- [一个轻量、可靠的移动端 Vue 组件库,源自有赞-Vant](https://youzan.github.io/vant/#/zh-CN/)
+
+## 包管理器
+
+- [快速、可靠、安全的依赖管理工具-Yarn](https://yarn.bootcss.com/)
+- [Node.js官方推荐依赖管理工具-npm](https://www.npmjs.com/)
+- [中国 npm 镜像的客户端-cnpm](https://github.com/cnpm/cnpm)
+- [快速，磁盘空间高效的包管理器-pnpm](https://github.com/pnpm/pnpm)
+
+## 前端解决方案
+
+- [一个开源的实时错误追踪系统(涵盖所有语言)-Sentry](https://github.com/getsentry/sentry)
+- [Your Form，这才是你想要的Form解决方案-UForm](https://uformjs.org/#/MpI2Ij/dNFzFyTb)
+- [一款运行在浏览器中的3D引擎，你可以用它创建各种三维场景-three.js](http://www.webgl3d.cn/)
+- [react虚拟列表通用库,解决react中的长列表性能问题-react-window](https://github.com/bvaughn/react-window)
+- [前端目前使用最广泛的对ajax请求封装的库-axios](https://github.com/axios/axios)
+- [基于 redux、redux-saga 和 react-router 的轻量级前端框架-dva](https://github.com/dvajs/dva)
+
+## 构建工具
+
+- [一个用于现代 JavaScript 应用程序的静态模块打包工具-webpack](https://webpack.docschina.org/concepts/)
+- [Bridging Every Blockchain in a Multi-Chain Future-Vite](https://www.vite.org/)
+- [一个极速零配置、成熟的Web应用打包工具-parcel](https://zh.parceljs.org/)
+- [将开发流程中让人痛苦或耗时的任务自动化,创造更大价值-gulp](https://www.gulpjs.com.cn/)
+
+## 脚手架
+
+- [应用最广泛的react脚手架,一键生成项目模板,生态成熟-create-react-app](https://github.com/facebook/create-react-app)
+- [一个应用广泛可插拔的企业级 React 应用框架-umi](https://umijs.org/zh-CN)
+- [Vue.js 开发的标准工具,目前应用最广泛的Vue脚手架-vue-cli](https://cli.vuejs.org/zh/)
+
 ## web前端工作内容
 
 web前端工作内容都有哪些？需要再次进步需要学习什么？就来讲述一下web前端工作者的工作内容。
