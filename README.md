@@ -119,7 +119,7 @@
 
 ## 构建工具
 
-- [一个用于现代 JavaScript 应用程序的静态模块打包工具-webpack](https://webpack.docschina.org/concepts/)
+- [一个用于现代JavaScript应用程序的静态模块打包工具-webpack](https://webpack.docschina.org/concepts/)
 - [Bridging Every Blockchain in a Multi-Chain Future-Vite](https://www.vite.org/)
 - [一个极速零配置、成熟的Web应用打包工具-parcel](https://zh.parceljs.org/)
 - [将开发流程中让人痛苦或耗时的任务自动化,创造更大价值-gulp](https://www.gulpjs.com.cn/)
@@ -127,8 +127,8 @@
 ## 脚手架
 
 - [应用最广泛的react脚手架,一键生成项目模板,生态成熟-create-react-app](https://github.com/facebook/create-react-app)
-- [一个应用广泛可插拔的企业级 React 应用框架-umi](https://umijs.org/zh-CN)
-- [Vue.js 开发的标准工具,目前应用最广泛的Vue脚手架-vue-cli](https://cli.vuejs.org/zh/)
+- [一个应用广泛可插拔的企业级React应用框架-umi](https://umijs.org/zh-CN)
+- [Vue.js开发的标准工具,目前应用最广泛的Vue脚手架-vue-cli](https://cli.vuejs.org/zh/)
 
 ## web前端工作内容
 
@@ -190,11 +190,3 @@ web前端工作内容都有哪些？需要再次进步需要学习什么？就�
 ## License
 
 所有文章采用知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议进行许可。
-
-
-
-
-
-
-
-
