@@ -164,7 +164,11 @@ Hi，I'm Jeskson（达达）, a passionate self-taught frontEnd web developer fr
 
 ## 数据可视化
 
-
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## web前端工作内容
 
