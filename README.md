@@ -162,6 +162,10 @@ Hi，I'm Jeskson（达达）, a passionate self-taught frontEnd web developer fr
 - [TCP通信协议](https://www.w3school.com.cn/tcpip/index.asp)
 - [linux系统的系统学习](http://linux.vbird.org/new_linux.php)
 
+## 数据可视化
+
+
+
 ## web前端工作内容
 
 web前端工作内容都有哪些？需要再次进步需要学习什么？就来讲述一下web前端工作者的工作内容。
