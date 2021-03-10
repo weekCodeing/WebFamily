@@ -16,7 +16,7 @@ Hi，I'm Jeskson（达达）, a passionate self-taught frontEnd web developer fr
 - ⚡ 有趣的事实： 我一直在倡导学习（Fun fact）
 
 
-【web面试+web学习指南】一份涵盖大部分Web前端开发程序员所需要掌握的核心知识。
+【web面试+web学习指南】一份涵盖大部分Web前端开发程序员所需要掌握的核心知识，是一个为开发者提供免费的学习资源整合社区。
 
 > 哪吒人生信条：如果你所学的东西 处于喜欢 才会有强大的动力支撑。
 
