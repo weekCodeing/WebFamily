@@ -43,6 +43,8 @@ Hi，I'm Jeskson（达达）, a passionate self-taught frontEnd web developer fr
 
 ## 📚掘金文章
 
+- [JavaScript数据结构之链表 | 技术点评](https://juejin.cn/post/6937443215599468558)
+- [JavaScript的数据结构-集合 ｜技术点评](https://juejin.cn/post/6937811746245574670)
 - [这是我的第一次JavaScript初级技巧](https://juejin.cn/post/6929701436276097032)
 - [一个合格的初级前端工程师需要掌握的模块笔记](https://juejin.cn/post/6925197705832562696/)
 - [【初级】个人分享Vue前端开发教程笔记](https://juejin.cn/post/6923946134025191432)
