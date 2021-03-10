@@ -150,6 +150,18 @@ Hi，I'm Jeskson（达达）, a passionate self-taught frontEnd web developer fr
 - [一个应用广泛可插拔的企业级React应用框架-umi](https://umijs.org/zh-CN)
 - [Vue.js开发的标准工具,目前应用最广泛的Vue脚手架-vue-cli](https://cli.vuejs.org/zh/)
 
+## 重学前端
+
+- [从零开始学前端 - HTML](https://www.w3school.com.cn/tags/tag_html.asp)
+- [从零开始学前端 - CSS](https://www.runoob.com/css/css-tutorial.html)
+- [从零开始学前端 - JavaScript](https://www.runoob.com/js/js-tutorial.html)
+- [运行在服务端的 JavaScript](https://www.runoob.com/js/js-tutorial.html)
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
+- [ECMAScript 6 入门](https://es6.ruanyifeng.com/)
+- [算法系统学习](https://leetcode-cn.com/)
+- [TCP通信协议](https://www.w3school.com.cn/tcpip/index.asp)
+- [linux系统的系统学习](http://linux.vbird.org/new_linux.php)
+
 ## web前端工作内容
 
 web前端工作内容都有哪些？需要再次进步需要学习什么？就来讲述一下web前端工作者的工作内容。
