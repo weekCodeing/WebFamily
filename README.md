@@ -35,6 +35,7 @@ Hi，I'm Jeskson（达达）, a passionate self-taught frontEnd web developer fr
 - [力扣 (LeetCode)-最大子序和,JavaScript数据结构与算法（数组）](https://juejin.cn/post/6935568341322956830)
 - [力扣 (LeetCode)-栈,括号生成 ｜刷题打卡](https://juejin.cn/post/6936378038129164319)
 - [力扣 (LeetCode)-加一，队列 ｜刷题打卡](https://juejin.cn/post/6937296154132480007)
+- [力扣 (LeetCode)-合并两个有序数组,字典,散列表｜刷题打卡](https://juejin.cn/post/6938184217868107812)
 
 ## 📚面试前反复掌握的JavaScript指南（100）篇
 
