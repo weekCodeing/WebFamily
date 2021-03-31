@@ -176,7 +176,9 @@ Hi，I'm Jeskson（达达）, a passionate self-taught frontEnd web developer fr
 
 ## web前端工作内容
 
-web前端工作内容都有哪些？需要再次进步需要学习什么？就来讲述一下web前端工作者的工作内容。
+web前端工作内容都有哪些？
+需要再次进步需要学习什么？
+就来讲述一下web前端工作者的工作内容。
 
 > 职责一：
 
