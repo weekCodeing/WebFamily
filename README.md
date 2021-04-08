@@ -88,6 +88,7 @@ These are some of the technologies and tools that I work with:
 
 ## 📚掘金文章
 
+- [前端模拟面试字数过23477万内容](https://juejin.cn/post/6948576107163549732)
 - [JavaScript数据结构之链表 | 技术点评](https://juejin.cn/post/6937443215599468558)
 - [JavaScript的数据结构-集合 ｜技术点评](https://juejin.cn/post/6937811746245574670)
 - [这是我的第一次JavaScript初级技巧](https://juejin.cn/post/6929701436276097032)
