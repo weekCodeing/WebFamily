@@ -84,6 +84,7 @@ These are some of the technologies and tools that I work with:
 
 ## 📚掘金文章
 
+- [TypeScript趁早学习提高职场竞争力](https://juejin.cn/post/6950052678927908901)
 - [前端模拟面试字数过23477万内容](https://juejin.cn/post/6948576107163549732)
 - [JavaScript数据结构之链表 | 技术点评](https://juejin.cn/post/6937443215599468558)
 - [JavaScript的数据结构-集合 ｜技术点评](https://juejin.cn/post/6937811746245574670)
