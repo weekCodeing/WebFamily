@@ -150,11 +150,78 @@ These are some of the technologies and tools that I work with:
 - [Stackoverflow，技术提问好去处,锻炼英语的好机会](https://stackoverflow.com/)
 - [遇到技术问题,最应该先去这里](https://github.com/)
 
+## 打包工具
+
+- [**webpack**](https://github.com/webpack/webpack) - 打包项目。
+- [**rollup**](https://github.com/rollup/rollup) - 打包 npm 库。
+- [**parcel**](https://github.com/parcel-bundler/parcel) - webpack 竞品，但发展前景不乐观，再观察一段时间。
+- [**systemjs**](https://github.com/systemjs/systemjs) - 针对一些特殊场景会比较有用，比如云 ide，支付宝小程序 IDE 等。
+- [**microbundle**](https://github.com/developit/microbundle) - 基于 rollup，简化配置。
+- [**bili**](https://github.com/egoist/bili) - 基于 rollup，同上。
+- [**father**](https://github.com/umijs/father) - 组件打包工具，提供 babel 和 rollup 两种打包方式。
+- [**vue-cli**](https://github.com/vuejs/vue-cli) - vue 命令行工具。
+- [**create-react-app**](https://github.com/facebook/create-react-app) - react 官方脚手架。
+- [**prepack**](https://github.com/facebook/prepack) - 通过预先执行的方式优化打包结果。
+- [**lebab**](https://github.com/lebab/lebab) - 把 es5 代码转成 es6，反向 babel。
+- [**esm-to-cjs**](https://github.com/sidvishnoi/esm-to-cjs) - 把 esm 转成 cjs。
+- [**tsdx**](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.
+
+## webpack 辅助工具、Loader 和插件
+
+- [**webpack-dev-server**](https://github.com/webpack/webpack-dev-server) - webpack 开发服务器。
+- [**webpack-dev-middleware**](https://github.com/webpack/webpack-dev-middleware) - webpack 中间件。
+- [**webpack-merge**](https://github.com/survivejs/webpack-merge) - 合并 webpack 配置。
+- [**webpack-chain**](https://github.com/neutrinojs/webpack-chain) - 通过 chain 风格 api 的方式修改 webpack 配置。
+- [**svgr**](https://github.com/smooth-code/svgr) - svg 转 react 组件。
+- [**postcss**](https://github.com/postcss/postcss) - CSS 界的 babel。
+- [**autoprefixer**](https://github.com/postcss/autoprefixer) - 为 CSS 选择权自动加 prefix。
+- [**cssnano**](https://github.com/cssnano/cssnano) - CSS 压缩，也有类 preset 的概念。
+- [**mini-css-extract-plugin**](https://github.com/webpack-contrib/mini-css-extract-plugin) - 提取 CSS 为单独文件。
+- [**webpackbar**](https://github.com/nuxt/webpackbar) - webpack 进度条。
+- [**webpack-bundle-analyzer**](https://github.com/webpack-contrib/webpack-bundle-analyzer) - 构建产物占比分析。
+- [**uglifyjs-webpack-plugin**](https://github.com/webpack-contrib/uglifyjs-webpack-plugin) - JS 压缩，产物为 ES5 语法。
+- [**terser-webpack-plugin**](https://github.com/webpack-contrib/terser-webpack-plugin) - JS 压缩，产物为 ES6 语法。
+- [**webpack-manifest-plugin**](https://github.com/danethurber/webpack-manifest-plugin) - 生成 manifest.json。
+- [**copy-webpack-plugin**](https://github.com/webpack-contrib/copy-webpack-plugin) - 复制额外的文件到输出目录。
+- [**case-sensitive-paths-webpack-plugin**](https://github.com/Urthen/case-sensitive-paths-webpack-plugin) - 大小写敏感检测，能规避一些问题，但构建时性能消耗较大。
+- [**css-hot-loader**](https://github.com/shepherdwind/css-hot-loader) - CSS 热更新，搭配 mini-css-extract-plugin 使用。
+- [**duplicate-package-checker-webpack-plugin**](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) - 重复依赖检测。
+- [**fork-ts-checker-webpack-plugin**](https://github.com/Realytics/fork-ts-checker-webpack-plugin) - ts 语法检测。
+- [**speed-measure-webpack-plugin**](https://github.com/stephencookdev/speed-measure-webpack-plugin) - 统计 webpack 各阶段耗时。
+
 ## 基础框架
 
 - [用于构建用户界面的 JavaScript 库-React.js](https://react.docschina.org/)
 - [渐进式JavaScript 框架-Vue.js](https://cn.vuejs.org/)
 - [一套框架,多种平台移动端&桌面端-Angular.js](https://angular.cn/)
+
+## 框架
+
+- [**next.js**](https://github.com/zeit/next.js)
+- [**nuxt.js**](https://github.com/nuxt/nuxt.js)
+- [**gastby**](https://github.com/gatsbyjs/gatsby)
+- [**umi**](https://github.com/umijs/umi) - 蚂蚁金服的前端框架
+- [**rekit**](https://github.com/rekit/rekit) - IDE and toolkit for building scalable web applications with React, Redux and React-router.
+- [**choo**](https://github.com/choojs/choo) - dva 最初的 API 是参考这个实现的，已经不怎么发展了，再关注一段时间。
+- [**taro**](https://github.com/NervJS/taro) - 用 React 写小程序，适配微信和支付宝等。
+- [**after.js**](https://github.com/jaredpalmer/after.js)
+- [**mint**](https://github.com/mint-lang/mint) - 提供了语言层方案的框架。
+- [**quasar**](https://github.com/quasarframework/quasar) - 基于 vue，一套代码多处适用。
+
+## react 相关库
+
+- [**preact**](https://github.com/developit/preact) - 轻量级 React 实现。
+- [**inferno**](https://github.com/infernojs/inferno) - 轻量级 React 实现。
+- [**react-router**](https://github.com/ReactTraining/react-router) - React 路由方案。
+- [**reach-router**](https://github.com/reach/router) - React 路由方案，较新，优势是可访问性。
+- [**router5**](https://github.com/router5/router5) - 通用的路由方案。
+- [**react-loadable**](https://github.com/jamiebuilds/react-loadable) - 按需加载 react 组件。
+- [**ant-design**](https://github.com/ant-design/ant-design) - 蚂蚁金服的 React UI 库。
+- [**material-ui**](https://github.com/mui-org/material-ui) - UI 库。
+- [**react-intl**](https://github.com/yahoo/react-intl) - React 的国际化方案。
+- [**react-dnd**](https://github.com/react-dnd/react-dnd) - 拖拽实现。
+- [**react-helmet**](https://github.com/nfl/react-helmet) - 修改 html 的 header 内容。
+- [**react-jsonschema-form**](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 
 ## 跨平台技术
 
@@ -176,6 +243,15 @@ These are some of the technologies and tools that I work with:
 - [Node.js官方推荐依赖管理工具-npm](https://www.npmjs.com/)
 - [中国 npm 镜像的客户端-cnpm](https://github.com/cnpm/cnpm)
 - [快速，磁盘空间高效的包管理器-pnpm](https://github.com/pnpm/pnpm)
+
+## babel
+
+- [**babel**](https://github.com/babel/babel)
+- [**babel-plugin-dynamic-import-node**](https://github.com/airbnb/babel-plugin-dynamic-import-node) - 有些场景下会需要禁用 `import()` 语法。
+- [**babel-plugin-macros**](https://github.com/kentcdodds/babel-plugin-macros) - 前端文件写 node 逻辑。
+- [**babel-plugin-rawest**](https://github.com/sokra/rawact) - React 的 DOM 直出方案。
+- [**babel-plugin-react-require**](https://github.com/vslinko/babel-plugin-react-require) - 自动为 jsx 语法加 react 引用。
+- [**babel-plugin-transform-react-remove-prop-types**](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - 删除 prop-types，生产环境用。
 
 ## 前端解决方案
 
