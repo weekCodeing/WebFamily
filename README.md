@@ -327,6 +327,8 @@ turndown	用JavaScript编写的HTML到Markdown转换器	https://github.com/domch
 - [一套基于可视化编码的图形语法，以数据驱动](http://antv-2018.alipay.com/zh-cn/g2/3.x/index.html)
 - [蚂蚁集团全新一代数据可视化解决方案(让数据栩栩如生)](https://antv.vision/zh)
 
+## 日志记录心得
+
 ## web前端工作内容
 
 web前端工作内容都有哪些？
