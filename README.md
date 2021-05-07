@@ -398,6 +398,11 @@ web前端工作内容都有哪些？
 2. 对于文中我没有涉及到知识点，欢迎提交 PR。
 3. 如果您有文章推荐请以 markdown 格式到邮箱 `2397923107@qq.com`。
 
+## 打赏
+
+![打赏](https://1024bibi.com/img/wechatpay.jpg)
+![微信号](https://1024bibi.com/img/wechat.jpg)
+
 ## License
 
 所有文章采用知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议进行许可。
