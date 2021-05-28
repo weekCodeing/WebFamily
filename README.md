@@ -78,9 +78,9 @@ These are some of the technologies and tools that I work with:
 - [力扣 (LeetCode)-14. 最长公共前缀](https://juejin.cn/post/6939167227748810783)
 - [力扣 (LeetCode)-13. 罗马数字转整数](https://juejin.cn/post/6939164605839048740)
 
-## 📚面试前反复掌握的JavaScript指南（100）篇
+## 📚ES6篇
 
-- [面试前反复掌握的JavaScript指南第一篇]()
+- [Promise对象](/es6/Promise对象.md)
 
 ## 📚掘金文章
 
