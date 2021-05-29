@@ -84,6 +84,7 @@ These are some of the technologies and tools that I work with:
 
 ## 📚掘金文章
 
+- [一个合格的中级前端工程师需要掌握的技能笔记（上）](https://juejin.cn/post/6967706992106438687)
 - [已阅冴羽大佬文章](https://juejin.cn/post/6958361473953300488)
 - [前端日常总结](https://juejin.cn/post/6955274909270409223)
 - [一份不可多得的TypeScript系统入门整理](https://juejin.cn/post/6952437673839558664)
