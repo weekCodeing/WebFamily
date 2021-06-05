@@ -80,6 +80,8 @@ These are some of the technologies and tools that I work with:
 
 ## 📚ES6篇
 
+- [let 和 const 命令](/es6/let和const命令.md)
+- [变量的解构赋值](/es6/变量的解构赋值.md)
 - [Promise对象](/es6/Promise对象.md)
 
 ## 📚掘金文章
