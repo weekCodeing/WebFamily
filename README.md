@@ -18,6 +18,10 @@
 - 📫 如何联系我wx: xiaoda0423（How to reach me）
 - ⚡ 有趣的事实： 我一直在倡导学习（Fun fact）
 
+**已阅**
+
+- [2021.6.29项目中使用package-lock.json锁版本问题](https://blog.csdn.net/weixin_33813128/article/details/93833633)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
