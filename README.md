@@ -20,7 +20,10 @@
 
 **已阅**
 
-- [2021.6.29项目中使用package-lock.json锁版本问题](https://blog.csdn.net/weixin_33813128/article/details/93833633)
+2021.6.29
+
+- [项目中使用package-lock.json锁版本问题](https://blog.csdn.net/weixin_33813128/article/details/93833633)
+- [Nuxtjs vuetify 抛出大量`Using / for Division 已弃用，将在 Dart Sass 2.0.0 中删除。`](https://stackoverflow.com/questions/67631879/nuxtjs-vuetify-throwing-lots-of-using-for-division-is-deprecated-and-will-be)
 
 **Languages and Tools:**  
 
