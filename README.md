@@ -26,6 +26,9 @@
 - [vue init webpack Travel bash: vue: command not found](https://blog.csdn.net/Ciel_Y/article/details/105128617)
 - [Vue中 Runtime + Compiler 和 Runtime-only 两种模式含义和区别](https://blog.csdn.net/weixin_43974265/article/details/112743656)
 - [vue脚手架搭建项目](https://www.icode9.com/content-4-934727.html)
+- [yarn 环境安装依赖报错解决方法（info fsevents@1.2.7: The platform “win32“ is incompatible with this module.）](https://blog.csdn.net/weixin_48337566/article/details/112062315)
+- [npm install报错（The platform “win32“ is incompatible with this module）](https://zhengkai.blog.csdn.net/article/details/107204811)
+- 
 
 2021.6.29
 
