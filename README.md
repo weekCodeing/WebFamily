@@ -30,6 +30,7 @@
 - [npm install报错（The platform “win32“ is incompatible with this module）](https://zhengkai.blog.csdn.net/article/details/107204811)
 - [记一次npm安装依赖奇怪的gyp报python错误](https://blog.csdn.net/ifishbone/article/details/111223368)
 - [npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.2 (node_modules\fsevents):](https://blog.csdn.net/m0_46256147/article/details/104725439)
+- [vue-property-decorator用法](https://www.jianshu.com/p/9add38dbd48c)
 
 2021.6.29
 
