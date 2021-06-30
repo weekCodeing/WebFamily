@@ -28,7 +28,8 @@
 - [vue脚手架搭建项目](https://www.icode9.com/content-4-934727.html)
 - [yarn 环境安装依赖报错解决方法（info fsevents@1.2.7: The platform “win32“ is incompatible with this module.）](https://blog.csdn.net/weixin_48337566/article/details/112062315)
 - [npm install报错（The platform “win32“ is incompatible with this module）](https://zhengkai.blog.csdn.net/article/details/107204811)
-- 
+- [记一次npm安装依赖奇怪的gyp报python错误](https://blog.csdn.net/ifishbone/article/details/111223368)
+- [npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.2 (node_modules\fsevents):](https://blog.csdn.net/m0_46256147/article/details/104725439)
 
 2021.6.29
 
