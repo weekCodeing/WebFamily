@@ -20,6 +20,13 @@
 
 **已阅**
 
+2021.6.30
+
+- [使用Vue脚手架构建项目时Runtime + Compiler和Runtime-only的区别](https://segmentfault.com/a/1190000020253015)
+- [vue init webpack Travel bash: vue: command not found](https://blog.csdn.net/Ciel_Y/article/details/105128617)
+- [Vue中 Runtime + Compiler 和 Runtime-only 两种模式含义和区别](https://blog.csdn.net/weixin_43974265/article/details/112743656)
+- [vue脚手架搭建项目](https://www.icode9.com/content-4-934727.html)
+
 2021.6.29
 
 - [项目中使用package-lock.json锁版本问题](https://blog.csdn.net/weixin_33813128/article/details/93833633)
