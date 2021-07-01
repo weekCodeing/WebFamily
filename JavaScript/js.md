@@ -1,0 +1,32 @@
+Object(对象超类)
+
+- Object含有所有JavaScript对象的特性的超类
+- Object.constructor对象的构造函数
+- Object.hasOwnProperty()检查属性是否被继承
+- Object.isPrototypeOf()一个对象是否是另一个对象的原型
+- Object.propertyIsEnumerable是否可以通过for/in循环看到属性
+- Object.toLocaleString()返回对象的本地字符表示
+- Object.toString()定义一个对象的字符串表示
+- Object.valueOf()指定对象的原始值
+
+- arguments[]
+- Arguments
+- Arguments.callee
+- Arguments.length
+- Array
+- Array.concat()
+- Array.join()
+- Array.length
+- Array.pop()
+- Array.push()
+- Array.reverse()
+- Array.shift()
+- Array.slice()
+- Array.sort()
+- Array.splice()
+- Array.toLocalString()
+- Array.toString()
+- Array.unshift()
+- Boolean
+- Boolean.toString()
+- 
