@@ -25,6 +25,7 @@
 - [超级详细的Vue-cli3使用教程](http://www.zyiz.net/tech/detail-135958.html)
 - [vue-cli3.0 + typescript 构建项目](https://blog.csdn.net/weixin_41717785/article/details/99567097)
 - [【原】npm 常用命令详解](https://www.cnblogs.com/PeunZhang/p/5553574.html)
+- [样式穿透::v-deep](https://blog.csdn.net/weixin_40679578/article/details/106401517)
 
 2021.6.30
 
