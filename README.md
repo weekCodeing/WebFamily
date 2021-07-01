@@ -20,6 +20,11 @@
 
 **已阅**
 
+2021.7.1
+
+- [超级详细的Vue-cli3使用教程](http://www.zyiz.net/tech/detail-135958.html)
+- [vue-cli3.0 + typescript 构建项目](https://blog.csdn.net/weixin_41717785/article/details/99567097)
+
 2021.6.30
 
 - [使用Vue脚手架构建项目时Runtime + Compiler和Runtime-only的区别](https://segmentfault.com/a/1190000020253015)
