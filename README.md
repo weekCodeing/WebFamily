@@ -25,6 +25,7 @@
 - [vue-cli3.0 吃过的坑](https://blog.csdn.net/qq_43653325/article/details/85075392)
 - [vue中watch高级用法（deep和immediate）](https://www.cnblogs.com/lanleiming/p/13256099.html)
 - [Vue.js中 watch(深度监听)的最易懂的解释](https://blog.csdn.net/qq_36688143/article/details/81287535)
+- [通过配置 VS Code 来提高生产力](https://chinese.freecodecamp.org/news/how-to-set-up-vscode-to-improve-your-productivity/)
 
 2021.7.1
 
