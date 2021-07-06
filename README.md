@@ -26,6 +26,7 @@
 - [vue中watch高级用法（deep和immediate）](https://www.cnblogs.com/lanleiming/p/13256099.html)
 - [Vue.js中 watch(深度监听)的最易懂的解释](https://blog.csdn.net/qq_36688143/article/details/81287535)
 - [通过配置 VS Code 来提高生产力](https://chinese.freecodecamp.org/news/how-to-set-up-vscode-to-improve-your-productivity/)
+- [Vue ts 中的@watch,@ prop的用法](https://blog.csdn.net/jjw_zyfx/article/details/117260127?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242)
 
 2021.7.1
 
