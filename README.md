@@ -20,6 +20,14 @@
 
 **已阅**
 
+2021.7.8
+
+- [Compilation issue with newer version of SASS](https://github.com/palantir/blueprint/issues/4032)
+- [Sass: DEPRECATION WARNING: Using / for division is deprecated and will be removed in Dart Sass 2.0.0 #4751](https://github.com/palantir/blueprint/issues/4751)
+- [Does not work with Vue 2.5.18](https://github.com/vuejs/vue-class-component/issues/294)
+- [vue版本依赖包（vue@2.6.11 ） （vue-template-compiler@2.6.10）不匹配问题](https://blog.csdn.net/kuguhuan/article/details/104423155/)
+- [Unable to resolve signature of class decorator when called as an expression](https://github.com/alirizaadiyahsi/nucleus/issues/129)
+
 2021.7.5
 
 - [vue-cli3.0 吃过的坑](https://blog.csdn.net/qq_43653325/article/details/85075392)
