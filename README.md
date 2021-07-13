@@ -20,6 +20,12 @@
 
 **已阅**
 
+2021.7.13
+
+- [ts 中的declare 具体用法](https://www.h5w3.com/65844.html)
+- [git config 查看配置信息](https://blog.csdn.net/qwaszx523/article/details/79072276)
+- [GIT配置信息](https://www.jianshu.com/p/6b3dfc980da4)
+
 2021.7.12
 
 - [JS 在已知的日期基础之上加N个月](https://bbs.csdn.net/topics/390532883?page=1)
