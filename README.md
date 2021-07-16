@@ -20,6 +20,18 @@
 
 **已阅**
 
+2021.7.15
+
+- [vue实现PC端分辨率适配](https://blog.csdn.net/weixin_41257563/article/details/97266234)
+
+1. 项目基础配置使用 vue-cli2 生成
+2. 自适应方案核心： 阿里可伸缩布局方案 lib-flexible
+3. px转rem：px2rem，它有webpack的loader px2rem
+
+2021.7.14
+
+- [Vue中使用keepAlive不缓存问题（已解决）](https://blog.csdn.net/hello_word_2/article/details/107767809)
+
 2021.7.13
 
 - [ts 中的declare 具体用法](https://www.h5w3.com/65844.html)
