@@ -20,6 +20,10 @@
 
 **已阅**
 
+2021.7.18
+
+- [ts 数组的类型](https://blog.csdn.net/weixin_38404899/article/details/103719069)
+
 2021.7.15
 
 - [vue实现PC端分辨率适配](https://blog.csdn.net/weixin_41257563/article/details/97266234)
