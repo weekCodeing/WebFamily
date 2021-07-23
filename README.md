@@ -1,6 +1,5 @@
 # WebFamily
 
-
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=webVueBlog&show_icons=true" alt="1024bibi.com" align="right" style="margin-bottom: 20px;" />
 </p>
@@ -29,6 +28,11 @@
 IP质量：根据人均PV的数值来评价某个来源、某个关键字、某个访客的质量和价值。通过对互联网数据的大量统计，确定了评判IP质量的准确的依据。人均PV越高，IP质量就越好，也就表明该来源下访客的忠诚度越好。
 
 **已阅**
+
+2021.7.23
+
+- [vue-pdf 通过文件流预览pdf文件](https://blog.csdn.net/m0_37852904/article/details/95992267)
+- [vue-pdf预览和下载，后台返回文件流(blob)](https://www.jianshu.com/p/35631b36def2)
 
 2021.7.22
 
