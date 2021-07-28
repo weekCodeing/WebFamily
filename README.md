@@ -29,14 +29,14 @@ IP质量：根据人均PV的数值来评价某个来源、某个关键字、某�
 
 **已阅**
 
-2021.7.27
-
-- []()
-
-2021.7.23
-
 - [vue-pdf 通过文件流预览pdf文件](https://blog.csdn.net/m0_37852904/article/details/95992267)
 - [vue-pdf预览和下载，后台返回文件流(blob)](https://www.jianshu.com/p/35631b36def2)
+
+2021.7.28
+
+- [vue-cli打包配置不同的开发和生成环境](https://blog.csdn.net/qq_23876873/article/details/99752785)
+- [vue中有关.env;.env.development,.env.production的相关介绍](https://www.cnblogs.com/song-zmin/p/11818918.html)
+- [vue el-upload上传控件一直报跨域问题 post请求变成get请求](https://blog.csdn.net/m0_37735354/article/details/86603453)
 
 2021.7.22
 
