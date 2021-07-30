@@ -1,6 +1,18 @@
 找到vue项目的config中的index.js文件
 
 ```
+proxy: {
+      '/api': {
+        target: 'http://10.1.1.227:9007/',
+        changeOrigin: true,
+        pathRewrite: {
+          '^/api': '/'
+        }
+      }
+    },
+```
+
+```
 module.exports = {
 	dev: {
 		proxyTable: {
