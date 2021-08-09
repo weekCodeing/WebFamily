@@ -696,3 +696,4 @@ class Post extends Vue {
   }
 }
 ```
+[](https://class-component.vuejs.org/)
