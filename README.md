@@ -42,6 +42,10 @@
 - [vue-pdf 通过文件流预览pdf文件](https://blog.csdn.net/m0_37852904/article/details/95992267)
 - [vue-pdf预览和下载，后台返回文件流(blob)](https://www.jianshu.com/p/35631b36def2)
 
+2021.8.9
+
+- [this.$refs.audio.play is not a function](https://blog.csdn.net/qq_52790671/article/details/112720413)
+
 2021.7.28
 
 - [vue-cli打包配置不同的开发和生成环境](https://blog.csdn.net/qq_23876873/article/details/99752785)
