@@ -466,7 +466,31 @@ __webpack_require__.r = function(exports) {
 	Object.defineProperty(exports, '__esModule', { value: true });
 }
 
+这个方法是给模块的exports对象加上ES Harmony规范的标记，
+如果支持Symbol对象，则为exports对象的Symbol.toStringTag属性赋值Module,
+这样做的结果是exports对象在调用toString方法时会返回'Module';
+如果不支持Symbol对象，则将exports.__esModule赋值为true。
 
+// getDefaultExport function for compatibility with non-harmony modules
+
+__webpack_require__.n = function(module) {
+	var getter = module && module.__esModule ?
+	 function getDefault() { return module['default']; } :
+	 function getModuleExports() { return module; };
+	__webpack_require__.d(getter, 'a', getter);
+	return getter;
+};
+
+传入了一个模块，返回一个getter方法，此处是一个高阶函数的应用
+实现的功能是当模块的__esModule属性为真时，返回一个getDefault( )方法
+否则返回getModuleExports( )方法
+
+// 添加ES Harmony规范模块标记
+__webpack_require__.r(__webpack_exports__);
+// a实际上得到了模块通过module.exports输出的对象
+var a = __webpack_require__("./components/component10k.js");
+// 根据a的模块化规范类型返回不同的getter函数，当getter函数执行时才会真正得到模块对象
+var b = __webpack_require__.n(a);
 
 
 
