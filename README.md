@@ -252,8 +252,14 @@ These are some of the technologies and tools that I work with:
 - [针对CSS说一说｜技术点评](https://juejin.cn/post/6935952741755781156#heading-13)
 - [原来也没有那么难！Vue商城开发 | 技术点评](https://juejin.cn/post/6936871299234922509)
 
-## 📚Java文章
+## 📚😋Java文章
 - [【2021年】小哪吒入门学习Java的第一天打卡](https://juejin.cn/post/6918306087795949582)
+
+## 📚文章
+
+- [刚刚，发布Webpack中级教程系列](https://mp.weixin.qq.com/s/Y19Y_spK2-epoX3NWfxqaQ)
+
+## 🚩其它
 
 - [录屏神器](https://recordit.co/)
 - [录屏神器](https://browser.qq.com/)
@@ -261,6 +267,7 @@ These are some of the technologies and tools that I work with:
 - [https://figmachina.com/](https://figmachina.com/)
 - [http://www.sketchcn.com/](http://www.sketchcn.com/)
 - [https://uizard.io/](https://uizard.io/)
+
 
 ```js
 Vue.js	前端框架	https://vuejs.org/
