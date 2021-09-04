@@ -17,6 +17,9 @@
 - 📫 如何联系我wx: xiaoda0423（How to reach me）
 - ⚡ 有趣的事实： 我一直在倡导学习（Fun fact）
 
+WebFamily 【每日学习打卡come on】一份涵盖大部分Web前端开发程序员所需要掌握的核心知识。前端技术博客仓库，Vue 源码解析，React 深度实践，TypeScript 进阶艺术，工程化，性能优化实践……
+Leetcode 【Suggest 👍 ‍💻 Leetcode brush question & answers】leetcode题解，记录自己的leetcode解题之路……
+
 > 网站流量统计之UV(Unique Visitor)：
 
 独立访客，将每个独立上网电脑（以cookie为依据）视为一位访客，一天之内（00:00-24:00），访问您网站的访客数量。一天之内相同cookie的访问只被计算1次。
@@ -172,6 +175,10 @@ These are some of the technologies and tools that I work with:
 </p>
 
 技术交流群：添加我微信  xiaoda0423  备注【姓名-工作年限/学校】即可
+
+## 📚1024bibib.com文章
+
+- [vue-axios-vuex-全家桶](https://1024bibi.com/2021/09/01/vue-axios-vuex-%E5%85%A8%E5%AE%B6%E6%A1%B6/)
 
 ## 📚力扣 (LeetCode)题目
 
