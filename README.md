@@ -42,6 +42,8 @@ Leetcode 【Suggest 👍 ‍💻 Leetcode brush question & answers】leetcode题
 
 **已阅**
 
+vue实现预览功能（包括doc，pdf，图片，视频）https://www.cnblogs.com/lhy-555/p/10839750.html
+
 - [vue-pdf 通过文件流预览pdf文件](https://blog.csdn.net/m0_37852904/article/details/95992267)
 - [vue-pdf预览和下载，后台返回文件流(blob)](https://www.jianshu.com/p/35631b36def2)
 
