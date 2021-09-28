@@ -1,0 +1,43 @@
+Arguments: 
+  C:\vue\node.exe C:\vue\node_global\node_modules\yarn\bin\yarn.js
+
+PATH: 
+  D:\WebFamily\vue-ts-element-webpack\vue-ts\node_modules\.bin;D:\WebFamily\vue-ts-element-webpack\node_modules\.bin;D:\WebFamily\node_modules\.bin;D:\node_modules\.bin;C:\vue;C:\Users\周斌\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\周斌\bin;C:\Python39\Scripts;C:\Python39;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\ProgramData\chocolatey\bin;C:\vue;C:\vue\node_global;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\周斌\AppData\Local\Microsoft\WindowsApps;C:\Users\周斌\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\周斌\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.1\bin;C:\vue\node_global;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.11
+
+Node version: 
+  14.17.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: unable to get local issuer certificate
+      at TLSSocket.onConnectSecure (_tls_wrap.js:1514:34)
+      at TLSSocket.emit (events.js:375:28)
+      at TLSSocket._finishInit (_tls_wrap.js:936:8)
+      at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:708:12)
+
+npm manifest: 
+  {
+    "name": "vue-ts",
+    "version": "0.1.0",
+    "private": true,
+    "devDependencies": {
+      "@vue/cli-plugin-babel": "~4.5.0",
+      "@vue/cli-plugin-router": "~4.5.0",
+      "@vue/cli-plugin-vuex": "~4.5.0",
+      "@vue/cli-plugin-eslint": "~4.5.0",
+      "@vue/cli-plugin-unit-jest": "~4.5.0",
+      "@vue/cli-service": "~4.5.0",
+      "@vue/cli-plugin-typescript": "~4.5.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
